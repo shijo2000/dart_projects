@@ -30,5 +30,5 @@ void main() {
   Rectangle rectangle = Rectangle(3, 4);
 
   print('Area of the circle: ${circle.area()}'); // Output: Area of the circle: 78.5
-  print('Area of the rectangle: ${rectangle.area()}'); // Output: Area of the rectangle: 12.0
+  print('Area of the rectangle: ${rectangle.area()}'); // Output: Area of the rectangle:12.0
 }

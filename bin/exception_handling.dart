@@ -12,5 +12,5 @@ void main() {
   }
 
   // Code continues to run after exception handling
-  print('Program continues to execute.');
+  print('Program continues to execute.');
 }
